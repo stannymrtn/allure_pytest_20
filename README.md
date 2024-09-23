@@ -1,1 +1,1 @@
-# allure_pytest_20
+# allure-pytest-example
